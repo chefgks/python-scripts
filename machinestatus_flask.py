@@ -7,7 +7,6 @@ import json
 from flask_restful import Api,reqparse,abort,Resource,fields, marshal
 import socket
 import sys
-#sys.path.insert(0, '/Users/emirozbir/Desktop/LinuxScriptsAndDocs/python-nmap-0.6.1/nmap')
 import pandas as pd
 import nmap
 import os
